@@ -23,7 +23,7 @@ body{
 .InputContainer{
   margin-bottom: 15px;
 }
-.DecreasePeople,.IncreasePeople{
+#DecreasePeople,#IncreasePeople{
   height: 20px;
   width:15px;
 }
